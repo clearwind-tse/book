@@ -31,7 +31,7 @@ module.exports = [
             {
                 text: '文章',
                 items: [
-                    {text: 'JavaScript', link: '/pages/8143cc480faf9a11/'},
+                    {text: 'Spring核心知识点', link: '/pages/8309a5b876fc95hf/'},
                 ],
             },
             {
@@ -50,15 +50,16 @@ module.exports = [
         text: '拓展',
         link: '/goods/',
         items: [
-            {text: '技术文档', link: '/pages/9a7ee40fc232253e/'},
-            {text: 'GitHub技巧', link: '/pages/4c778760be26d8b3/'},
-            {text: '博客搭建', link: '/pages/41f87d890d0a02af/'},
+           
         ],
     },
     {
         text: '更多',
         link: '/more/',
         items: [
+            {text: '技术文档', link: '/pages/9a7ee40fc232253e/'},
+            {text: 'GitHub技巧', link: '/pages/4c778760be26d8b3/'},
+            {text: '博客搭建', link: '/pages/41f87d890d0a02af/'},
             {text: '学习', link: '/pages/f2a556/'},
             {text: '面试', link: '/pages/aea6571b7a8bae86/'},
             {text: '心情杂货', link: '/pages/2d615df9a36a98ed/'},
