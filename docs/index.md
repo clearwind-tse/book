@@ -16,7 +16,7 @@ features: # 可选的
     details: Spring、SpringMVC、Mybatis..框架源码
     link: /code/
     imgUrl: /img/ui.png
-  - title: 服务
+  - title: 拓展
     details: 技术文档、教程、技巧、总结等文章
     link: /goods/
     imgUrl: /img/other.png
