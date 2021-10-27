@@ -41,6 +41,7 @@ git push -f https://xiehanfeng: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@github.c
 # git push -f https://xiehanfeng:309fd3e1b45712eda5acf32ed6e12ee6@gitee.com/xiehanfeng/blog.git master # 推送到coding
 
 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
+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
 309fd3e1b45712eda5acf32ed6e12ee6
 
  https://xiehanfeng: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@github.com/xiehanfeng/book.git

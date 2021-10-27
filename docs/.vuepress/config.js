@@ -6,7 +6,7 @@ module.exports = {
   theme: 'vdoing', // 使用npm包主题
   // theme: require.resolve('../../theme-vdoing'), // 使用本地主题
 
-  title: "%(⁎⁍̴̛ᴗ⁍̴̛⁎)",
+  title: "Clearwind",
   description: 'Java后端技术博客,简洁至上,专注Java技术学习与总结。java,spirng,源码,git,github等技术文章。',
   // base: '/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {

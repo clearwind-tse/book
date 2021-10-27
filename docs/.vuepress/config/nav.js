@@ -51,8 +51,8 @@ module.exports = [
         ],
     },
     {
-        text: '拓展',
-        link: '/goods/',
+        text: '工具',
+        link: '/tool/',
         items: [
            
         ],
